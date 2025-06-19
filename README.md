@@ -2,11 +2,11 @@
 
 ### SANTANDER - EXCEL COM INTELIGENCIA ARTIFICIAL
 
-### Desafios propostos para aplicação dos conhecimentos adquiridos no uso da ferramenta excel com Inteligência Artificial. A aplicação do conhecimento se dá de forma contextualizada em uma área de negócio.
+### Desafios propostos para aplicação dos conhecimentos adquiridos no uso da ferramenta excel com Inteligência Artificial de forma contextualizada em uma área de negócio.
 
 ## OBJETIVO
 
-Aplicar de forma abrangente e específica os recursos disponíveis na ferramenta Excel permitindo a elaboração de soluções eficiêntes.
+Aplicar de forma abrangente e específica os recursos disponíveis na ferramenta Excel permitindo a elaboração de soluções eficientes.
 
 ## Organização
 
