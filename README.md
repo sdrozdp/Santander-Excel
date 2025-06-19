@@ -1,14 +1,24 @@
-## Olá, meu nome é Simone    Palma!
+## Olá, meu nome é Simone D Palma!
 
-### DESAFIO PROPOSTO
+### SANTANDER - EXCEL COM INTELIGENCIA ARTIFICIAL
 
-### Criar uma planilha excel que permite simular investimentos em fundos imo biliários.
+### Desafios propostos para aplicação dos conhecimentos adquiridos no uso da ferramenta excel com Inteligência Artificial. A aplicação do conhecimento se dá de forma contextualizada em uma área de negócio.
 
 ## OBJETIVO
 
-Aplicar os conhecimentos desenvolvidos de forma contextualizada aplicando conceitos de negócio, elaboração de layout, formatação, fórmulas, tabela, gráfico, entre outros tópicos.
+Aplicar de forma abrangente e específica os recursos disponíveis na ferramenta Excel permitindo a elaboração de soluções eficiêntes.
 
- 
+## Organização
+
+* Desafio: Construção de uma Ferramenta de Controle de Investimentos com Excel  
+    Este desafio consiste em criar uma planilha básica que permita simular o retorno financeiro em investimentos imobiliários. 
+    A planilha que apresenta o desafio concluído é Simulador_Investimento_Fundos_Imobiliarios.xlsx.
+    
+* Desafio: Construção de um Organizador de Declaração de Imposto de Renda
+    Este desafio consiste em criar uma planilha que permite concentrar e organizar as informações necessárias para realizar a declaração de imposto de renda. 
+    A planilha que apresenta o desafio concluído é Organizador-de-declaracao-de-IR.xlsx.
+
+   
 #### PODEMOS NOS CONECTAR ATRAVÉS DO 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-drozd-palma-813b22280)[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sdrozdp@gmail.com)
 
